@@ -15,7 +15,22 @@ Github adalah sebuah platform untuk berbagi kode dan proyek pengembangan perangk
 
     ```
     $ git --version
+   ```
+![](15.png)
+Jika muncul versi git maka git sudah berhasil terinstall
+
+6. Konfigurasi username dan email git menggunakan perintah 
+
     ```
+    $ git config --global user.name "username"
+    & git config --global user.email "username@gmail.com"
+   ```
+![](16.png)
+
+![](17.png)
+
+
+
 
 ## Langkah-langkah Membuat Repository
 
